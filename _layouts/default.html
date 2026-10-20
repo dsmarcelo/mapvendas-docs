@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#content">Pular para o conteúdo</a>
+  <aside>
+    <a class="brand" href="{{ '/' | relative_url }}">Map Vendas<span>Documentação do produto</span></a>
+    <nav aria-label="Documentação">
+      {% for group in site.data.navigation %}
+      <section><h2>{{ group.title | escape }}</h2>
+        {% for item in group.pages %}
+        <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+        {% endfor %}
+      </section>
+      {% endfor %}
+    </nav>
+  </aside>
+  <main id="content" tabindex="-1">
+    <header>GUIA DO PRODUTO</header>
+    <article>{{ content }}</article>
+    <footer>Map Vendas · Documentação de funcionalidades e regras do produto</footer>
+  </main>
+</body>
+</html>

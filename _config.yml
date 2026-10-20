@@ -1,0 +1,8 @@
+title: Map Vendas
+lang: pt-BR
+baseurl: /mapvendas-docs
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md

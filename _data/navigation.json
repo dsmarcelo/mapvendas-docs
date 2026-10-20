@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Comece aqui",
+    "pages": [
+      {
+        "title": "Introdução",
+        "url": "/features/geral/introducao.html"
+      },
+      {
+        "title": "Navegação",
+        "url": "/features/geral/navegacao.html"
+      }
+    ]
+  },
+  {
+    "title": "Painel",
+    "pages": [
+      {
+        "title": "Painel",
+        "url": "/features/painel/painel.html"
+      }
+    ]
+  },
+  {
+    "title": "Vendas",
+    "pages": [
+      {
+        "title": "Estoque",
+        "url": "/features/vendas/estoque.html"
+      },
+      {
+        "title": "Movimentações de estoque",
+        "url": "/features/vendas/movimentacoes-de-estoque.html"
+      },
+      {
+        "title": "Nova venda",
+        "url": "/features/vendas/nova-venda.html"
+      },
+      {
+        "title": "Orçamentos",
+        "url": "/features/vendas/orcamentos.html"
+      },
+      {
+        "title": "Produtos",
+        "url": "/features/vendas/produtos.html"
+      },
+      {
+        "title": "Vendas",
+        "url": "/features/vendas/vendas.html"
+      }
+    ]
+  },
+  {
+    "title": "Serviços",
+    "pages": [
+      {
+        "title": "Agenda de serviços",
+        "url": "/features/servicos/agenda.html"
+      },
+      {
+        "title": "Detalhe da ordem de serviço",
+        "url": "/features/servicos/detalhe-da-ordem-de-servico.html"
+      },
+      {
+        "title": "Nova ordem de serviço",
+        "url": "/features/servicos/nova-ordem-de-servico.html"
+      },
+      {
+        "title": "Ordens de serviço",
+        "url": "/features/servicos/ordens-de-servico.html"
+      },
+      {
+        "title": "Serviços",
+        "url": "/features/servicos/servicos.html"
+      }
+    ]
+  },
+  {
+    "title": "Aluguéis",
+    "pages": [
+      {
+        "title": "Agenda de aluguéis",
+        "url": "/features/alugueis/agenda.html"
+      },
+      {
+        "title": "Aluguéis",
+        "url": "/features/alugueis/alugueis.html"
+      },
+      {
+        "title": "Detalhe do aluguel",
+        "url": "/features/alugueis/detalhe-do-aluguel.html"
+      },
+      {
+        "title": "Detalhe do item de aluguel",
+        "url": "/features/alugueis/detalhe-do-item-de-aluguel.html"
+      },
+      {
+        "title": "Itens de aluguel",
+        "url": "/features/alugueis/itens-de-aluguel.html"
+      },
+      {
+        "title": "Manutenções",
+        "url": "/features/alugueis/manutencoes.html"
+      },
+      {
+        "title": "Novo aluguel",
+        "url": "/features/alugueis/novo-aluguel.html"
+      },
+      {
+        "title": "Retiradas e devoluções",
+        "url": "/features/alugueis/retiradas-e-devolucoes.html"
+      }
+    ]
+  },
+  {
+    "title": "Clientes",
+    "pages": [
+      {
+        "title": "Clientes",
+        "url": "/features/clientes/clientes.html"
+      },
+      {
+        "title": "Detalhe do cliente",
+        "url": "/features/clientes/detalhe-do-cliente.html"
+      }
+    ]
+  },
+  {
+    "title": "Financeiro",
+    "pages": [
+      {
+        "title": "Contas a receber",
+        "url": "/features/financeiro/contas-a-receber.html"
+      },
+      {
+        "title": "Despesas",
+        "url": "/features/financeiro/despesas.html"
+      },
+      {
+        "title": "Financeiro",
+        "url": "/features/financeiro/financeiro.html"
+      }
+    ]
+  },
+  {
+    "title": "Relatórios",
+    "pages": [
+      {
+        "title": "Relatórios",
+        "url": "/features/relatorios/relatorios.html"
+      }
+    ]
+  },
+  {
+    "title": "Empresa",
+    "pages": [
+      {
+        "title": "Configurações",
+        "url": "/features/empresa/configuracoes.html"
+      },
+      {
+        "title": "Empresa",
+        "url": "/features/empresa/empresa.html"
+      },
+      {
+        "title": "Equipe e acesso",
+        "url": "/features/empresa/equipe-e-acesso.html"
+      }
+    ]
+  }
+]
